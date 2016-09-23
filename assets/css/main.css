@@ -2245,7 +2245,7 @@
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+				background-image: url("images/overlay.png"), url("http://www.loc.gov/exhibits/creating-the-united-states/interactives/constitution/images/Articles_wethepeople_enlarge.gif");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
