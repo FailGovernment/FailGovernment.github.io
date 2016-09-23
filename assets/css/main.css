@@ -2243,21 +2243,6 @@
 
 		/* Basic */
 
-			body {
-				background-color: #203936;
-				background-image: url("images/overlay.png"), url("http://www.loc.gov/exhibits/creating-the-united-states/interactives/constitution/images/Articles_wethepeople_enlarge.gif");
-				background-repeat: repeat, no-repeat;
-				background-size: cover;
-				background-position: top left, top center 0;
-				background-attachment: fixed, fixed;
-				font-size: 14pt;
-			}
-
-		body.is-scroll {
-			background-attachment: scroll, scroll;
-			background-size: auto, 100% auto;
-		}
-
 			input, textarea, select {
 				font-size: 14pt;
 			}
