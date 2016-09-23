@@ -2253,6 +2253,11 @@
 				font-size: 14pt;
 			}
 
+		body.is-scroll {
+			background-attachment: scroll, scroll;
+			background-size: auto, 100% auto;
+		}
+
 			input, textarea, select {
 				font-size: 14pt;
 			}
