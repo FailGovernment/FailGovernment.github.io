@@ -2249,7 +2249,7 @@
 				background-repeat: repeat, no-repeat;
 				background-size: cover;
 				background-position: top left, top center;
-				background-attachment: scroll, scroll;
+				background-attachment: fixed, fixed;
 				font-size: 14pt;
 			}
 
