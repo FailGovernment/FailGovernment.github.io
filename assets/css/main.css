@@ -1307,7 +1307,7 @@
 		background-color: #183026;
 		background-image: url("images/overlay.png"), url("http://www.loc.gov/exhibits/creating-the-united-states/interactives/constitution/images/Articles_wethepeople_enlarge.gif");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: cover;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
